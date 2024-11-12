@@ -1,0 +1,5 @@
+export const CHANGE_CURRENT_PAGE = "entire/CHANGE_CURRENT_PAGE"
+
+export const CHANGE_ROOM_LIST = "entire/CHANGE_ROOM_LIST"
+
+export const CHANGE_TOTAL_COUNT = "entire/CHANGE_TOTAL_COUNT"
